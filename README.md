@@ -1,5 +1,5 @@
-Dans ce dossier sont repertorie les projets
-effectu&ecute;s dans le cadre de mes etudes au cnam.
+Dans ce dossier sont repertoriés les projets
+effectués dans le cadre de mes études au cnam.
 
 Les travaux pratiques et autres projets peu 
-developpes ne sont pas present.
+developpés ne sont pas présent.
